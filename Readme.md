@@ -1,2 +1,2 @@
-Hellow there this a my first uploadted Readme file. Dont change anything
+Hello Everyone, this a my first uploaded Readme file. Using VS Code
 
